@@ -6,41 +6,60 @@
 
 _Objetivo General_
 
-
+-Analizar como los voltajes e intensidades de ca difieren de los de cd y los circuitos R,L y C.
 
 _Objetivos Específicos_
 
+-Calcular  los diferentes tipos de valores para formas de onda.
+
+-Comprender conceptos como la impedancia y reactancia.
+
+-Representar los fasores de voltaje y corriente de ca como numeros complejos.
+
 **2. MARCO TEÓRICO**
 
-
 _Capítulo 15_     
-![Mapa15]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Cap15.png )     
-![Mapa15_1]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Cap15_1.png )     
+![Mapa15]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Cap15.png )  
+
+![Mapa15_1]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Cap15_1.png )    
+
 ![Mapa15_2]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Cap15_2.png )
 
 _Capítulo 16_
+
+![mt1](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/mt1.PNG)
+
+![mt2](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/mt2.PNG)
+
+![mt3](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/mt3.PNG)
 
 ![MAP C16-4:5](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Fun.C%20Tarea%208%20resumen%20cap%2016%20m1.jpg)
 
 ![MAP C16-6:7](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Fun.C%20Tarea%208%20resumen%20cap%2016%20m2.jpg)
 
-
-
-
-
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 _Capítulo 15_     
-![1]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/1.png )     
-![3]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/3.png )     
-![5]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/5.png )      
-![7]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/7.png )      
-![9]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/9.png )      
-![11-13]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/11-13.png )       
-![15-17]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/15-17.png )      
-![19-21]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/19-21.png )     
-![27]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/27.png )     
-![29]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/29.png )      
+![1]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/1.png ) 
+
+![3]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/3.png )  
+
+![5]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/5.png )   
+
+![7]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/7.png )   
+
+![9]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/9.png )   
+
+![11-13]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/11-13.png )    
+
+![15-17]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/15-17.png )   
+
+![19-21]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/19-21.png )  
+
+![27]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/27.png )    
+
+![29]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/29.png )   
+
 ![31]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/31.png ) 
 
 ![Ejer C15-33](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2033-C15.png)
@@ -139,8 +158,9 @@ Link del video:  https://youtu.be/JOQrU8hh2jg
 
 **5. CONCLUSIONES**
 
+-Enfocar los voltajes y corrientes de ca como fasores, los elementos de circuitos como impedancias y analizarlos  en el dominio de fasores es mucho mas practico que analizarlos en funcion del tiempo.
 
-
+-La principal diferencia es que las cantidades de ca son complejas en lugar de reales como las de cd.
 
 **6. BIBLIOGRAFÍA**
 
