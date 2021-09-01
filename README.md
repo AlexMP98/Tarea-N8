@@ -18,9 +18,13 @@ _Capítulo 15_
 ![Mapa15_1]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Cap15_1.png )     
 ![Mapa15_2]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Cap15_2.png )
 
-
-
 _Capítulo 16_
+
+![MAP C16-4:5](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Fun.C%20Tarea%208%20resumen%20cap%2016%20m1.jpg)
+
+![MAP C16-6:7](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Fun.C%20Tarea%208%20resumen%20cap%2016%20m2.jpg)
+
+
 
 
 
@@ -37,12 +41,37 @@ _Capítulo 15_
 ![19-21]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/19-21.png )     
 ![27]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/27.png )     
 ![29]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/29.png )      
-![31]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/31.png )     
+![31]( https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/31.png ) 
 
+![Ejer C15-33](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2033-C15.png)
 
+![Ejer C15-35](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2035-C15.png)
 
+![Ejer C15-37](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2037-C15.png)
+
+![Ejer C15-39](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2039-C15.png)
+
+![Ejer C15-45](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2045-C15.png)
+
+![Ejer C15-49](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2049-C15.png)
+
+![Ejer C15-51](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2051-C15.png)
+
+![Ejer C15-53](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2053-C15.png)
+
+![Ejer C15-55](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2055-C15.png)
+
+![Ejer C15-57](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2057-C15.png)
+
+![Ejer C15-59](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2059-C15.png)
+
+![Ejer C15-61](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2061-C15.png)
+
+![Ejer C15-63](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%2063-C15.png)
 
 _Capítulo 16_
+
+![Ejer C16-01](https://github.com/AlexMP98/Tarea-N8/blob/main/Imagenes/Ejer%201-C16.png)
 
 
 **4. VIDEO**         
